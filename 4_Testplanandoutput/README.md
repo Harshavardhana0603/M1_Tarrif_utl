@@ -4,10 +4,10 @@
 ## High Level Test Plan
 <br>
 
-| ID | Description | Expected I/P | Expected O/P | Actual O/P | Type of Test |
+| ID |  Objective | Expected I/P | Expected O/P | Actual O/P | Status |
 |----|----------------------|-------------|-------------|-------------|--------------|
-|HP01| | Previous reading| current reading| Pass |  | requirement | 
-|HP02| Bill amount | Group | Bill amount calaculated | Pass | requirement |
+|HP01| Enter the reading| Previous reading| current reading| current reading |   pass | 
+|HP02| Bill amount | Group | Bill amount calaculated | Bill amount calculated | pass |
 
 <br>
 <br>
