@@ -7,7 +7,7 @@ int main()
     char group;
     double Bill_amount;
     //scanf("%d", &units);
-    printf("\t\t Welcome to Tariff calculation\n\n\n");
+    printf("\t\t Welcome to electricity  Tariff calculation\n\n\n");
     printf("Enter Previous reading\n");
     scanf("%d", &prevreading);
     printf("Enter the Current reading\n");
