@@ -3,15 +3,15 @@
 
 
 
-[![Codacy Badge](https://app.codiga.io/public/project/31086/M1_Tarrif_utl/dashboard)
+![Codacy Badge](https://app.codiga.io/public/project/31086/M1_Tarrif_utl/dashboard)
 
 
 
-[![Codacy Badge](https://api.codiga.io/project/31086/score/svg)
+![Codacy Badge](https://api.codiga.io/project/31086/score/svg)
 
 
 
-[![Codacy Badge](https://api.codiga.io/project/31086/status/svg)
+![Codacy Badge](https://api.codiga.io/project/31086/status/svg)
 
 
 
