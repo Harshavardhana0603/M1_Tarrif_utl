@@ -6,7 +6,7 @@
 
 | ID |  Objective | Expected I/P | Expected O/P | Actual O/P | Status |
 |----|----------------------|-------------|-------------|-------------|--------------|
-|HP01| Enter the reading| Previous reading| current reading| current reading |   pass | 
+|HP01| Enter the reading| Previous & current reading|units value should be entered |units value should be entered |   pass | 
 |HP02| Bill amount | Group | Bill amount calaculated | Bill amount calculated | pass |
 
 <br>
