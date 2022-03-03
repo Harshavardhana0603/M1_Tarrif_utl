@@ -31,10 +31,22 @@ It is used all over the world.
 From conventional energy sources the energy is converted into useful form of electrical energy and it is generated, transmitted and distributed to consumers. And hence along with the units multiplied with rate of charge,the maintenance nothing but fixed and consumer charges are also added.
 
 
+
+### High level requirments
+|ID|Requirements|
+|---|-----------|
+|HLR1|It should read the all units|
+|HLR2| For the entered group or community Tarrif should  calculate according to the group that entered|  
+
+
+
 ### Low level requirements:
-1) Select the group
-2) If its not belong to the enetrd group it will directly switch to other group.
-3) After the selected The rate of charge belongs to that particular group will be multiplied with no. of units to get energy charges
+|ID|Requirements|
+|---|-----------|
+|LLR1| Enter the readings|
+|LLR2|Units to be calculated|
+|LLR3|Enter the Group If its not belong to the enetrd group it will directly switch to other group.|
+|LLR4| After the selected The rate of charge belongs to that particular group will be multiplied with no. of units to get energy charges|
 
 
 
