@@ -38,3 +38,30 @@ From conventional energy sources the energy is converted into useful form of ele
 
 
 
+
+
+
+### SWOT Analysis
+
+##### Streanth
+
+- Easy to calculte the electricity bill.
+- Easy to build
+-  Low cost
+-  Available for the all communities.
+
+#### Weakness
+
+- Profit margin is low
+
+#### Oppotunities
+
+- Every citizen will come to know their own tarrif
+- It will useful to all sectors which all are using electrcity.
+
+
+#### Threats
+ 
+ - Fake calculation
+ 
+
