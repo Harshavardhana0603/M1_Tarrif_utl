@@ -18,7 +18,7 @@
 
 |ID| Objectives | Expected I/P | Expected O/P| Actual O/P | Status|
 |----|------------------------|---------------|--------------|---------------|---------------|
-|LP01| Previous reading ang current reading is given | Integer 1| View the readings | View the readings | Pass |
+|LP01| Previous reading and current reading is given | Integer 1| View the readings | View the readings | Pass |
 |LP02| Units will be calculated | Interger 2| View the units | veiw the units | Pass |
 |LP03| Three groups are available | select the groups |group A,B& C| group A, B, C| Pass|
 |LP04| You can select group | Available groups(A, B &C) | Enter the group|enter the group | Pass|
